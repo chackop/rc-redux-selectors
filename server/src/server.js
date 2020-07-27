@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import bodyParser from 'body-parser';
-import * as uuid from 'uuid';
+import uuid from 'uuid';
 
 var fakeTodos = [
   {
